@@ -1,0 +1,2 @@
+Hey there! I'm a software engineer with a knack for graphics programming. I absolutely love diving into the world of graphics and game engines, and occasionally
+the world of embedded systems. I enjoy crafting shaders or optimizing rendering pipelines as a past-time. I share some of my thoughts here, feel free to connect!

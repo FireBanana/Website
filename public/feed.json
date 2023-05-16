@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "#Pragma Twice",
+  "home_page_url": "google.com",
+  "feed_url": "google.comfeed.json",
+  "description": "A minimal hugo theme focus on content",
+  "favicon": "google.com/assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Calvin Tran",
+    "url": "google.com"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}
