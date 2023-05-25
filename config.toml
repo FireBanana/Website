@@ -10,8 +10,8 @@ canonifyURLs = true
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "A minimal hugo theme focus on content"
-  author = 'Calvin Tran'
+  description = "Owais' Portfolio"
+  author = 'Owais'
 
   [params.comments]
     githubRepo = 'canhtran/maverick'

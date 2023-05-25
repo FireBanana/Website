@@ -157,4 +157,4 @@ Indices share a similar approach; the required data is stored from the accessor 
 
 Note: this is a very crude and simple example, since I wanted to have very simple models that I process myself. Utilizing the other data that TinyGLTF provides, such as the data type, can help decode a larger quantity of models with lesser code. I will expand on this in the future when the need arises. Meanwhile, enjoy this picture of an unlit Suzanne that the above code loads:
 
-![Suzanne](/images/gltf-1.png)
+![Suzanne](/images/gltf/gltf-1.png)
