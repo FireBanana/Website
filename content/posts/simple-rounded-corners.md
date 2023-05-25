@@ -1,7 +1,7 @@
 ---
 title: "Simple Rounded Corners"
 date: 2023-05-25T12:04:38+05:00
-draft: true
+draft: false
 ---
 
 In most modern designs today, rounded corners are a staple in most UIs. I haven't seen a lot of simple explanations for it, so I'll share a simple approach to create one. The code is being run on ShaderToy, so any uniforms/vertex inputs should be converted for your engine of choice.
