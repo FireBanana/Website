@@ -1,7 +1,7 @@
 baseURL = 'google.com'
 languageCode = 'en-us'
 title = '#Owais Akhtar'
-paginate = 3
+paginate = 10
 theme = 'maverick'
 canonifyURLs = true
 
